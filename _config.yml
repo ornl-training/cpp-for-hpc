@@ -1,0 +1,18 @@
+markdown:         kramdown
+highlighter:      rouge
+permalink:        pretty
+
+plugins:
+  - jekyll-remote-theme
+
+title:            C++ for HPC
+tagline:          'A Jekyll theme'
+description:      'Modern C++17 applied to high-performance computing applications'
+remote_theme:     pmarsceill/just-the-docs
+heading_anchors:  true
+
+author:
+  name:           'William F Godoy'
+
+gems:
+  - jekyll-redirect-from
