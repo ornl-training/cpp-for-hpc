@@ -1,0 +1,11 @@
+# Vi(m) temporary buffer files
+*.sw?
+
+# Emacs temporary files
+*~
+
+# Eclipse
+.project
+
+# Jupyter Notebooks
+*.ipynb_checkpoints
