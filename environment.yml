@@ -1,0 +1,8 @@
+name: cpp-for-hpc
+
+channels:
+  - conda-forge
+
+dependencies:
+  - xeus-cling
+
